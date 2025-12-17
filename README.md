@@ -33,13 +33,6 @@
 
 <br/>
 
-<h3 align="center">🐍 My Contribution Graph</h3>
-<div align="center">
-  <img src="https://github.com/ZharfanFw/fjribgs/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-<br/>
-
 <div align="center">
   <p><i>"67, Am i Muted?"</i></p>
   <a href="https://instagram.com/bojongpulus.id">
