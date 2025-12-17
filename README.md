@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/fjribgs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZharfanFw&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZharfanFw&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fjribgs&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjribgs&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
@@ -35,14 +35,14 @@
 
 <h3 align="center">🐍 My Contribution Graph</h3>
 <div align="center">
-  <img src="https://github.com/ZharfanFw/ZharfanFw/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/ZharfanFw/fjribgs/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <br/>
 
 <div align="center">
-  <p><i>"I use Arch, btw."</i></p>
-  <a href="https://instagram.com/username_ig_mu">
+  <p><i>"67, Am i Muted?"</i></p>
+  <a href="https://instagram.com/bojongpulus.id">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </div>
