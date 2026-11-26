@@ -55,6 +55,6 @@ const Fajri = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,c,cpp,java,nextjs,react,tailwindcss,postgres,bun,neovim,git,arch&perline=7" />
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,java,nextjs,react,tailwindcss,mysql,sqlite,bun,git,laravel,inertia&perline=7" />
 
 </div>
