@@ -1,8 +1,8 @@
 <div align="center">
 
-# Zharfan Faza Wibawa
+# Fajri Bagaskara Budi
 
-**Fullstack Developer** · Computer Science Student
+**Frontend Developer** · Software Engineer Student
 
 </div>
 
@@ -34,23 +34,22 @@
 
 ### 👋 About Me
 
-I'm a Computer Science student who enjoys going deep into how
-things work under the hood, from backend systems to the Linux
-boxes they run on. Currently exploring backend & DevOps, and
+I'm a Software Engineer student who enjoys going deep into how
+things work on the front. Currently exploring UI/UX, frontend and
 running my own side project.
 
 
 ```typescript
-const Zharfan = {
-  pronouns: "He/Him",
-  role: "Fullstack Developer",
+const Fajri = {
+  pronouns: "He because i could never be him",
+  role: "Frontend Developer",
   stack: {
     frontend: ["Next.js", "React", "Tailwind CSS"],
-    backend: ["ElysiaJS", "PostgreSQL"],
-    tools: ["Docker", "Git", "Neovim"]
+    backend: ["ElysiaJS", "MySQL", "Laravel"],
+    tools: ["Git", "Visual Studio Code"]
   },
   currentFocus: "Building scalable web applications",
-  interests: ["System Administration", "Linux", "DevOps"]
+  interests: ["UI/UX, Frontend Development, Game Development"]
 };
 ```
 
