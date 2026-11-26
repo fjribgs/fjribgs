@@ -1,12 +1,10 @@
 <div align="center">
-
-# Fajri Bagaskara Budi
-
-**Frontend Developer** · Software Engineer Student
-
+  <h1>Fajri Bagaskara Budi</h1>
+  <p><strong>Frontend Developer</strong> · Software Engineer Student</p>
 </div>
 
 <div align="center">
+<pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⠚⣹⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡴⠞⠁⠀⣰⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -30,14 +28,12 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣇⠀⠀⠀⢰⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⡌⢧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⣦⣤⣴⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⠿⠟⠛⠛⠛⣁⠼⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⡿⠏⠀⠀⠀⠀⠀⠀⠀⠀⢀⣞⣫⣤⡤⠴⠖⠚⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+</pre>
 </div>
 
 ### 👋 About Me
 
-I'm a Software Engineer student who enjoys going deep into how
-things work on the front. Currently exploring UI/UX, frontend and
-running my own side project.
-
+I'm a Software Engineer student who enjoys going deep into how things work on the front. Currently exploring UI/UX, frontend and running my own side project.
 
 ```typescript
 const Fajri = {
@@ -49,12 +45,5 @@ const Fajri = {
     tools: ["Git", "Visual Studio Code"]
   },
   currentFocus: "Building scalable web applications",
-  interests: ["UI/UX, Frontend Development, Game Development"]
+  interests: ["UI/UX", "Frontend Development", "Game Development"]
 };
-```
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,cpp,java,nextjs,react,tailwindcss,mysql,sqlite,bun,git,laravel,inertia&perline=7" />
-
-</div>
