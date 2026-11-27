@@ -54,10 +54,10 @@ const Fajri = {
   currentFocus: "Building scalable web applications",
   interests: ["UI/UX", "Frontend Development", "Game Development"]
 };
+```
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,js,java,nextjs,react,elysia,tailwindcss,postgres,bun,npm,git,laravel&perline=7" />
 
 </div>
-```
