@@ -60,3 +60,4 @@ const Fajri = {
 <img src="https://skillicons.dev/icons?i=ts,js,java,nextjs,react,elysia,tailwindcss,postgres,bun,npm,git,laravel&perline=7" />
 
 </div>
+```
